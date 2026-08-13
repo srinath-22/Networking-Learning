@@ -1,0 +1,35 @@
+2026-08-13 23:10:38,831 - ERROR - Invalid IP address : hello.1.1.2
+2026-08-13 23:10:38,831 - INFO - Connected to : 192.0.0.2
+2026-08-13 23:10:38,832 - INFO - Connected to : 192.168.1.1
+2026-08-13 23:10:38,832 - INFO - Connected to : 256.168.1.1
+2026-08-13 23:10:38,832 - ERROR - Invalid IP address : 192.abc.1.1
+2026-08-13 23:10:38,832 - ERROR - Invalid IP octet : 192.168.1
+2026-08-13 23:10:38,832 - ERROR - Invalid IP address : 192.999.999.999
+2026-08-13 23:10:38,833 - ERROR - Invalid IP address : hello.1.1.2
+2026-08-13 23:10:38,833 - INFO - Connected to : 192.0.0.2
+2026-08-13 23:10:38,833 - INFO - Connected to : 192.168.1.1
+2026-08-13 23:10:38,833 - INFO - Connected to : 256.168.1.1
+2026-08-13 23:10:38,833 - ERROR - Invalid IP address : 192.abc.1.1
+2026-08-13 23:10:38,834 - ERROR - Invalid IP octet : 192.168.1
+2026-08-13 23:10:38,834 - ERROR - Invalid IP address : 192.999.999.999
+2026-08-13 23:12:08,876 - ERROR - Invalid IP address : hello.1.1.2
+2026-08-13 23:12:08,877 - INFO - Connected to : 192.0.0.2
+2026-08-13 23:12:08,877 - INFO - Connected to : 192.168.1.1
+2026-08-13 23:12:08,878 - INFO - Connected to : 256.168.1.1
+2026-08-13 23:12:08,878 - ERROR - Invalid IP address : 192.abc.1.1
+2026-08-13 23:12:08,878 - ERROR - Invalid IP octet : 192.168.1
+2026-08-13 23:12:08,879 - ERROR - Invalid IP address : 192.999.999.999
+2026-08-13 23:18:52,433 - ERROR - Invalid IP address : hello.1.1.2
+2026-08-13 23:18:52,433 - INFO - Connected to : 192.0.0.2
+2026-08-13 23:18:52,434 - INFO - Connected to : 192.168.1.1
+2026-08-13 23:18:52,434 - INFO - Connected to : 256.168.1.1
+2026-08-13 23:18:52,434 - ERROR - Invalid IP address : 192.abc.1.1
+2026-08-13 23:18:52,434 - ERROR - Invalid IP octet : 192.168.1
+2026-08-13 23:18:52,434 - ERROR - Invalid IP address : 192.999.999.999
+2026-08-13 23:20:53,443 - ERROR - Invalid IP address : hello.1.1.2
+2026-08-13 23:20:53,444 - INFO - Connected to : 192.0.0.2
+2026-08-13 23:20:53,444 - INFO - Connected to : 192.168.1.1
+2026-08-13 23:20:53,444 - INFO - Connected to : 256.168.1.1
+2026-08-13 23:20:53,445 - ERROR - Invalid IP address : 192.abc.1.1
+2026-08-13 23:20:53,445 - ERROR - Invalid IP octet : 192.168.1
+2026-08-13 23:20:53,445 - ERROR - Invalid IP address : 192.999.999.999

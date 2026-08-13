@@ -1,8 +1,9 @@
-from utils import helpers
-from utils import logger
+from scripts.validate import validate_ip
 
-print("Main Started")
-
-result = helpers.add(10, 20)
-
-print(result)
+print(validate_ip("hello.1.1.2"))
+print(validate_ip("192.0.0.2"))
+print(validate_ip("192.168.1.1"))
+print(validate_ip("256.168.1.1"))
+print(validate_ip("192.abc.1.1"))
+print(validate_ip("192.168.1"))
+print(validate_ip("192.999.999.999")) 
